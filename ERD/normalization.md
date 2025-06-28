@@ -1,6 +1,6 @@
 ## Normalized ERD
 
-![NormalizedERD](./normalized_erd.jpg)
+![NormalizedERD](./normalized_erd1.jpg)
 
 ## Changes that were made:
 - User table had so many sharable attributes that contained sensitive data
