@@ -8,7 +8,7 @@ This project contains the database schema for the ALX Airbnb clone. The schema i
 - **Property Table**: Lists available listings of properties.
 - **Booking Table**: Stores booking data such as starting date and end date.
 - **Payment Table**: Stores payment data.
-- **Reviews Table**: Allows users to leave reviews for places, including text and rating.
+- **Review Table**: Allows users to leave reviews for places, including text and rating.
 - **Message Table**: Stores messaging data in the database.
 - **Foreign Keys & Constraints**: Ensures data integrity between related tables (e.g., cities reference states).
 
