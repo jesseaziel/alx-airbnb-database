@@ -16,6 +16,7 @@ This project contains the populated data for the database schema for the ALX Air
 
 - Run `schema.sql` in your MySQL database to create all tables and relationships.
 - The schema supports all basic operations needed for an Airbnb-like platform, including user management, listing places, and reviews.
+- All data in `seed.sql` shall be populated in the already established `schema.sql`
 
 ## Notes
 
